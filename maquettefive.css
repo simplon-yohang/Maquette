@@ -1,0 +1,99 @@
+body{
+margin:0px;
+font-family:sans-serif;
+}
+#container{
+width:80%;
+margin:auto 10% ;
+}
+
+
+#menu {
+background-color:black;
+color:grey;
+height:30px;
+padding-top:10px;
+position: fixed;
+top:0;
+right:0;
+left:0;
+}
+
+.navbar{
+text-decoration:none;
+height:100px;
+color:grey;
+font-size:20px;
+margin:20px 10px;
+
+}
+
+#header{
+border-bottom:1px grey solid;
+margin-top: 50px;
+}
+span {
+color:grey;
+
+}
+img{
+padding:20px 20px 20px 0;
+
+}
+.vp{
+background-color:#337AB7;
+border:black;
+border-radius:5px;
+width:150px;
+height:30px;
+}
+.vp a{
+  color:white;
+  font-size:20px;
+  text-decoration: none;
+}
+.vp:hover{
+  background-color:#23527C;
+}
+
+.para1{
+border-bottom:1px grey solid;
+}
+
+.tone{
+width:30%;
+float:right;
+}
+
+
+
+table {
+border:1px black solid;
+margin:30px auto;
+border-collapse:collapse;
+}
+
+td  a{
+text-decoration:none;
+color:black;
+}
+td:hover{
+  background-color:#23527C;
+}
+
+td{
+border:1px black solid;
+}
+#precedent {
+border-top-left-radius:5px;
+border-bottom-left-radius:5px;
+}
+#suivant {
+border-top-right-radius:5px;
+border-bottom-right-radius:5px;
+}
+#copy{
+border-top: 1px grey solid;
+padding-top: 30px ;
+padding-bottom:30px;
+}
